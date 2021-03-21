@@ -1,8 +1,7 @@
 <template>
-<div>
-  <p>Hakkımda syfası</p>
-
-</div>
+  <div>
+    <p>Hakkımda syfası</p>
+  </div>
 </template>
 
 <script>
